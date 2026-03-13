@@ -1,0 +1,5 @@
+{
+  "name": "Audio to 3D Animation",
+  "description": "Convert audio and an image into a 3D animation using Veo.",
+  "requestFramePermissions": ["microphone"]
+}
